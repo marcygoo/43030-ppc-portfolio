@@ -14,6 +14,7 @@ h1 {margin-top:32px;padding-top:16px;}
 h3 {color:#fefefe;}
 a {text-decoration:none;color:#C9C9C9;}
 
+.ev {max-width: 100%;}
 
 .primary {color:#fefefe;font-family:Helvetica,sans-serif;}
 .tertiary {color:#898989;font-family:Helvetica,sans-serif}
